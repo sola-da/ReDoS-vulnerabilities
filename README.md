@@ -1,5 +1,5 @@
 # Reported ReDoS Vulnerabilities
-Bellow is a list of **ReDoS vulnerabilities** reported by the Software Lab group at TU Darmstadt as part of the research paper *Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers*:
+Below there is a list of **ReDoS vulnerabilities** reported as part of the research paper *Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers*:
 
 | Vulnerable module | Bug Report | Response | Advisory|
 |:-------:|:-------------:|:------|:------:|
