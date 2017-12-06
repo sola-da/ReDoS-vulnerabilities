@@ -1,0 +1,32 @@
+
+{
+  "name": "ReDoS-exploits",
+  "version": "0.0.1",
+  "description": "This package contains a list of ReDoS vulnerabilities reported by the SOLA group as part of the research paper 'Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers'.",
+  "dependencies": {
+    "ajv" : "5.2.2",
+    "slug": "0.9.1",
+    "no-case" : "2.3.1",
+    "string" : "3.3.3",
+    "underscore.string" : "3.3.4",
+    "ua-parser-js" : "0.7.13",
+    "htmlparser" : "1.7.7",
+    "ismobilejs" : "0.4.1",
+    "marked" : "0.3.6",
+    "mime" : "1.4.0",
+    "parsejson" : "0.0.3",
+    "dns-sync": "0.1.3",
+    "lodash": "4.17.4",
+    "platform": "1.3.4",
+    "content-type-parser": "1.0.1",
+    "tough-cookie": "2.3.2",
+    "mobile-detect":"1.3.6",
+    "charset": "1.0.0",
+    "content": "3.0.5",
+    "forwarded":"0.1.0",
+    "debug" : "3.0.1",
+    "fresh" : "0.5.0",
+    "timespan": "2.3.0",
+    "moment": "2.18.1"
+  }
+}
