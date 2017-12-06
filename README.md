@@ -2,7 +2,7 @@
 Bellow is a list of **ReDoS vulnerabilities** reported by the Software Lab group at TU Darmstadt as part of the research paper *Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers*:
 
 | Vulnerable module | Bug Report | Response | Advisory|
-|-------|:-------------:|------:|------:|
+|:-------:|:-------------:|:------|:------:|
 | [debug](https://www.npmjs.com/package/debug) | [Issue 501](https://github.com/visionmedia/debug/issues/501) | FIXED | [534](https://nodesecurity.io/advisories/534/) |
 | [lodash](https://www.npmjs.com/package/lodash) | [Issue 3359](https://github.com/lodash/lodash/issues/3359) | "limiting the size is fine" | N/A |
 | [mime](https://www.npmjs.com/package/mime) | [Issue 167](https://github.com/broofa/node-mime/issues/167) | FIXED | [535](https://nodesecurity.io/advisories/535) |
